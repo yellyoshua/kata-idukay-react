@@ -1,0 +1,79 @@
+.pagestore {
+}
+.pagestore h1 {
+  color: white;
+  font-size: 1.5rem;
+}
+.pagestore section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 75px;
+}
+.potion-card {
+  max-width: 250px;
+  margin: 20px;
+  background: #33363e;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.potion-card:hover {
+  background: #474b56;
+}
+.potion-card img {
+  max-width: 100px;
+  width: 100%;
+  height: auto;
+}
+.potion-card h2 {
+  font-size: 1.1rem;
+  color: white;
+}
+.underline {
+  width: 100%;
+  height: 2px;
+  margin-bottom: 10px;
+}
+.pagestore-go-attack {
+  z-index: 1;
+  position: fixed;
+  display: flex;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 10px 10px 0px 0px;
+  background: #fb8c00;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 0px;
+}
+.pagestore-go-attack p {
+  margin: 0;
+  background: #9014b8;
+  border-radius: 50%;
+  padding: 5px;
+  height: 20px;
+  font-size: 1.5rem;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pagestore-go-attack button {
+  border: 0;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
+.pagestore-go-attack button:hover {
+  background: chocolate;
+  color: white;
+}
+
+@media (max-width: 500px) {
+  .pagestore section {
+    grid-template-columns: 1fr;
+  }
+}

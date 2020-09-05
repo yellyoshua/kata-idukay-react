@@ -1,0 +1,28 @@
+.homepage h1 {
+  color: white;
+  font-size: 1.5rem;
+}
+.homepage section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.hechicero-card {
+  max-width: 100px;
+  margin: 20px;
+  background: #33363e;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.hechicero-card:hover {
+  background: #474b56;
+}
+.hechicero-card img {
+  width: 100%;
+  height: auto;
+}
+.hechicero-card h2 {
+  font-size: 1.1rem;
+  color: white;
+}

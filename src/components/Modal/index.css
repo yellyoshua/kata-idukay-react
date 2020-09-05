@@ -1,0 +1,37 @@
+.modal-container {
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 10px;
+  background: #252525d1;
+}
+.modal-container .modal-card {
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  background: white;
+  position: relative;
+}
+.modal-container .modal-card .modal-card-close {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  border: 0px;
+  border-radius: 10px;
+  margin: 0;
+  background: #880101;
+  font-size: 1.5rem;
+  padding: 0px 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
