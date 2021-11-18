@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17ed5d1b.chunk.css",
+    "main.js": "/static/js/main.daecf5cd.chunk.js",
+    "main.js.map": "/static/js/main.daecf5cd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eca5dac1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eca5dac1.js.map",
+    "static/js/2.dd51ff82.chunk.js": "/static/js/2.dd51ff82.chunk.js",
+    "static/js/2.dd51ff82.chunk.js.map": "/static/js/2.dd51ff82.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9335f75a9b18e205ae5899054c4acff8.js": "/precache-manifest.9335f75a9b18e205ae5899054c4acff8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.17ed5d1b.chunk.css.map": "/static/css/main.17ed5d1b.chunk.css.map",
+    "static/js/2.dd51ff82.chunk.js.LICENSE.txt": "/static/js/2.dd51ff82.chunk.js.LICENSE.txt",
+    "static/media/defame-potion.png": "/static/media/defame-potion.16069de0.png",
+    "static/media/fake-friends-potion.png": "/static/media/fake-friends-potion.aaebdadf.png",
+    "static/media/illusions-potion.png": "/static/media/illusions-potion.edd8ac1a.png",
+    "static/media/love-potion.png": "/static/media/love-potion.1701359c.png",
+    "static/media/smurf.png": "/static/media/smurf.f3503255.png",
+    "static/media/thor.png": "/static/media/thor.e752f791.png",
+    "static/media/wizard-original.png": "/static/media/wizard-original.ad58925e.png",
+    "static/media/wonder-woman.png": "/static/media/wonder-woman.bda6ae00.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eca5dac1.js",
+    "static/js/2.dd51ff82.chunk.js",
+    "static/css/main.17ed5d1b.chunk.css",
+    "static/js/main.daecf5cd.chunk.js"
+  ]
+}
